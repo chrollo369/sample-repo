@@ -1,0 +1,5 @@
+ 1).only checking if git is commited or not .
+ 2).now i am writing this to check if  this(git) is tracking the code base & telling me if something is changed .
+ 3). now  I am adding this line to check if git is checkinng if something is changed in this file .
+ 4). new changes
+. adding new changes to check if git is checking this file or not
